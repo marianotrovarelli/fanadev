@@ -1,0 +1,38 @@
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+{
+  "manifestVersion": "2.0.0",
+  "signatureType": "community",
+  "signedByOrg": "pgillich",
+  "signedByOrgName": "pgillich",
+  "rootUrls": [],
+  "plugin": "pgillich-tree-panel",
+  "version": "0.1.9",
+  "time": 1654187741131,
+  "keyId": "7e4d0c6a708866e7",
+  "files": {
+    "CHANGELOG.md": "72bab2279e059b3f9df7efb0a3eaef841a5a0a3e9dc19183bc1ff64aef806c0f",
+    "module.js": "d25dfe4706cb29f63ba78c5cf5aaa209f45a54dba2d678f2c09f948a1c8d26cd",
+    "module.js.LICENSE.txt": "45c49d3f80331c3ee17b928f3843158693258ff95e0a129cef6e05525dc5c1f7",
+    "plugin.json": "7a33fbd5220d0edc47598ea7a1adb75e35bde7a3e988b14c4da447cd7aba6f37",
+    "module.js.map": "ea184ce776ea8cef2099627e50b6bf59692ff67cbdd0aa83e480a526ea5c453a",
+    "LICENSE": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+    "img/logo.svg": "515fe1b4c297ff4f38cd0e5fdd810f9dc35e41cc8cbc25bdcb97febea7ed1aa8",
+    "img/1panel.jpg": "fffc4a2537889a81f55383348eba3006da4c4477bbfa37fad5e5b4bb8187e168",
+    "img/options.jpg": "e6945eee0801800d364453f0ed2711771e5b7bcdba96ec4bcadf524c44f755eb",
+    "README.md": "8f8e3efe34bb98da46bf084fb976518ba7cebc1c415bb5c464625e31e19a34b2"
+  }
+}
+-----BEGIN PGP SIGNATURE-----
+Version: OpenPGP.js v4.10.10
+Comment: https://openpgpjs.org
+
+wrcEARMKAAYFAmKY5t0AIQkQfk0ManCIZucWIQTzOyW2kQdOhGNlcPN+TQxq
+cIhm5xLAAgID0d8fxKfmFH4o3Q9uVbQn3AyI67UNxnVAbPO62Jp3n3bbiCIB
+lJH7srvSNVxCkrnxon79wpipK8obp/nt3Izh3AII1ZnP0L++BcQe9MDt6P14
+FiVJm2fiJEI+5jx09ctiCVYp1q7BB7yPn49UdHGr3VXtjd86jMXVu2O+M4LC
+nwJvHjg=
+=DBzN
+-----END PGP SIGNATURE-----

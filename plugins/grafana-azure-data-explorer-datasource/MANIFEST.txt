@@ -1,0 +1,48 @@
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+{
+  "manifestVersion": "2.0.0",
+  "signatureType": "grafana",
+  "signedByOrg": "grafana",
+  "signedByOrgName": "Grafana Labs",
+  "plugin": "grafana-azure-data-explorer-datasource",
+  "version": "4.1.0",
+  "time": 1654675566695,
+  "keyId": "7e4d0c6a708866e7",
+  "files": {
+    "CHANGELOG.md": "98f80ecebb17c3a5e1f3d9d4d70b1a8c2e1dca86fcbcddd484babe7111834379",
+    "LICENSE": "7bb89d164c87a5f4655d9c5e70c7496d4bce9b77957504d1c9fbd7cc528ab010",
+    "README.md": "f946f87407d5047258826bdf8b242c6d2bd201cb5236799ca17588fd94a5d522",
+    "common/README.md": "193b9da44c64d58df6e638c2b73ee2e42a49ad2a49ea6ab8e547e9c23ae08bad",
+    "gpx_adx_linux_amd64": "ff5bd1d90ec453aa6cc00d6fd352c71bc6c6901400f086230ff1192d2df0fc9d",
+    "img/config_1_select_type.png": "94fd22bf1b041464055e752e924128791b98b1e8c892416518a947932df5d370",
+    "img/config_2_azure_data_explorer_api_details.png": "491bde45985a2b9be9b964caaf2838a53bb87003904f2e32740e50e61b0ad8b4",
+    "img/config_3_web_ui.png": "a889d062f09ab8db964d7d432136540ad95c2af980d625a3818bafd8b4c774da",
+    "img/grafana_cloud_install.png": "3ee4ae9990a01041f951ca7b6b4e5fc66d4054f586cf47a32090eb7eb9fd3e9d",
+    "img/logo.png": "8f33cc5f73331a41acb0281d2dbc5a302442d2b29302a6a41414ce82c125435f",
+    "img/templating_1.png": "f9d6392ad0c08e44ec32f4f62af6da18dc8aaaebd03073372fda941e064e2c4f",
+    "img/templating_2.png": "55a96c348e3af56564b8d60e2655a0845dedfd4c807d7e22939e60eacd62a751",
+    "libs/bridge.js": "33697e03f8ec6e9ce98b6f835c95b483b6b6565b93cd396af405bd583dae02fe",
+    "libs/monaco.min.js": "aa6c19ebb6161153289218fecfe2a711f79b7d35267e6a3f12c2ce86140ca205",
+    "libs/monaco.min.js.map": "16810fde2b9edec4616ec662f192f59b81ada58b2807658a1b651230345eb6d8",
+    "module.js": "2c2183cab6126bb0228764e51173cb2475daf823eb12d06bffa588c15d05ab6b",
+    "module.js.LICENSE.txt": "0d8f66cd4afb566cb5b7e1540c68f43b939d3eba12ace290f18abc4f4cb53ed0",
+    "module.js.map": "570dc73c9e4a47cd5d12fe916aeeba3a2ebd1aa9455ca8fc3a52f5bc196786c6",
+    "partials/annotations.editor.html": "ec9615c3477a620685a590f00e49170f1429f4917b473e142f59ba5c7d79239e",
+    "partials/config.html": "bdd27ff5d90c9d7196e1c1229f8e87fc320dcf56ebe5747998ec6034ddcc1e8d",
+    "plugin.json": "00dfb15d13befd520df5d037f07b951b4c5dcaa29885e37c71312977f9006154"
+  }
+}
+-----BEGIN PGP SIGNATURE-----
+Version: OpenPGP.js v4.10.10
+Comment: https://openpgpjs.org
+
+wrgEARMKAAYFAmKgWG4AIQkQfk0ManCIZucWIQTzOyW2kQdOhGNlcPN+TQxq
+cIhm51khAgYwHskdRmeM4/9HJIHQfOBFz+q59eSl1wBanxsHq8rgtoXZH+N0
+7xoAGPuLO7vMmHV6dKJ8oDZ52XUFL1izVOn3FQIJAe2KNKph8zgeB/uCvKT+
+WMR60JDtxL5KbC4Xn2xouc5uq2Ns/PiGhHAH3PW2ilYMVaRpIDEKXifqxNs8
+SETsKISU
+=FqGO
+-----END PGP SIGNATURE-----
